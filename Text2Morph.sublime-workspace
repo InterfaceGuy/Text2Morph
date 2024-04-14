@@ -1,0 +1,2152 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"field",
+				"field_length"
+			],
+			[
+				"line",
+				"linear_field"
+			],
+			[
+				"lin",
+				"linear_field"
+			],
+			[
+				"set",
+				"set_unique_desc_ids"
+			],
+			[
+				"sp",
+				"specify_parameters"
+			],
+			[
+				"specify_ac",
+				"specify_action_parameters"
+			],
+			[
+				"dome",
+				"domesticated_mind"
+			],
+			[
+				"T",
+				"ThreeDScene"
+			],
+			[
+				"focus",
+				"focus_point"
+			],
+			[
+				"re",
+				"rel_stop"
+			],
+			[
+				"w",
+				"white_circle"
+			],
+			[
+				"ROT",
+				"ROT_P"
+			],
+			[
+				"left",
+				"left_semi_circle"
+			],
+			[
+				"U",
+				"UAngle"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"spe",
+				"specify_parameters"
+			],
+			[
+				"right_s",
+				"right_semi_circle"
+			],
+			[
+				"sn",
+				"snap_start"
+			],
+			[
+				"hei",
+				"height_bias"
+			],
+			[
+				"cur",
+				"curvature_spline"
+			],
+			[
+				"cy",
+				"cylinder"
+			],
+			[
+				"interf",
+				"interface"
+			],
+			[
+				"pro",
+				"projection_types"
+			],
+			[
+				"specif",
+				"specify_parameters"
+			],
+			[
+				"right",
+				"right_eye"
+			],
+			[
+				"spec",
+				"specify_creation"
+			],
+			[
+				"cus",
+				"CustomObject"
+			],
+			[
+				"C",
+				"CustomObject"
+			],
+			[
+				"rig",
+				"right_eye"
+			],
+			[
+				"inter",
+				"interface_guy"
+			],
+			[
+				"fill",
+				"filled"
+			],
+			[
+				"lef",
+				"left_to_right"
+			],
+			[
+				"dia",
+				"diameter"
+			],
+			[
+				"cr",
+				"crop_talk"
+			],
+			[
+				"M",
+				"Membrane"
+			],
+			[
+				"met",
+				"meta_lens"
+			],
+			[
+				"d",
+				"desc_id"
+			],
+			[
+				"wa",
+				"warm_lens_border"
+			],
+			[
+				"war",
+				"warm_lens_border"
+			],
+			[
+				"un",
+				"un_fill"
+			],
+			[
+				"gr",
+				"grid_width"
+			],
+			[
+				"specify",
+				"specify_action_interval"
+			],
+			[
+				"gene",
+				"generation_mode"
+			],
+			[
+				"ini",
+				"initial_visibility_port"
+			],
+			[
+				"no",
+				"not_node_final"
+			],
+			[
+				"G",
+				"GetOutPort"
+			],
+			[
+				"o",
+				"object_ini"
+			],
+			[
+				"_",
+				"__class__"
+			],
+			[
+				"Lin",
+				"LineObject"
+			],
+			[
+				"mos",
+				"mospline"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"rel_s",
+				"rel_stop"
+			],
+			[
+				"rel",
+				"rel_start"
+			],
+			[
+				"in",
+				"input_spline"
+			],
+			[
+				"inpu",
+				"input_spline"
+			],
+			[
+				"spl",
+				"spline_masks"
+			],
+			[
+				"de",
+				"desc_id"
+			],
+			[
+				"explosion",
+				"explosion_radius_parameter"
+			],
+			[
+				"ID_BASEOBJECT_P",
+				"ID_BASEOBJECT_POSITION"
+			],
+			[
+				"create_dis",
+				"create_distance_nodes"
+			],
+			[
+				"crea",
+				"create_part_node"
+			],
+			[
+				"expl",
+				"explosion_radius"
+			],
+			[
+				"movem",
+				"movements"
+			],
+			[
+				"gen",
+				"generation_mode"
+			],
+			[
+				"mospl",
+				"mospline"
+			],
+			[
+				"PO",
+				"POS_Y"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"warm",
+				"warm_lens_border"
+			],
+			[
+				"len",
+				"lens"
+			],
+			[
+				"specify_",
+				"specify_relations"
+			],
+			[
+				"R",
+				"RED"
+			],
+			[
+				"gl",
+				"glow_parameter"
+			],
+			[
+				"Visi",
+				"VisibleMoSpline"
+			],
+			[
+				"sk",
+				"sketch_parameter_setup"
+			],
+			[
+				"sou",
+				"source_spline"
+			],
+			[
+				"mo",
+				"morpher"
+			],
+			[
+				"Insert",
+				"InsertUnder"
+			],
+			[
+				"dynamic_membrane_",
+				"dynamic_membrane_length_right_parameter"
+			],
+			[
+				"dyn",
+				"dynamic_membrane_length_left_parameter"
+			],
+			[
+				"desc",
+				"desc_id"
+			],
+			[
+				"peer",
+				"peer_count_parameter"
+			],
+			[
+				"peers",
+				"peers_right"
+			],
+			[
+				"destination",
+				"destination_splines"
+			],
+			[
+				"split_membrane_ac",
+				"split_membrane_action_parameter"
+			],
+			[
+				"split",
+				"split_distance_parameter"
+			],
+			[
+				"morph_comple",
+				"morph_completion_parameter"
+			],
+			[
+				"Spl",
+				"SplineMask"
+			],
+			[
+				"ed",
+				"edges"
+			],
+			[
+				"f",
+				"formula"
+			],
+			[
+				"pee",
+				"peer_color"
+			],
+			[
+				"split_membrane_",
+				"split_membrane_left"
+			],
+			[
+				"clo",
+				"clone_connector"
+			],
+			[
+				"impo",
+				"importlib"
+			],
+			[
+				"targ",
+				"target_object"
+			],
+			[
+				"max",
+				"max_distance_parameter"
+			],
+			[
+				"n",
+				"neighbour_count_parameter"
+			],
+			[
+				"ne",
+				"neighbour_count_parameter"
+			],
+			[
+				"GV_OBJECT_OBJE",
+				"GV_OBJECT_OPERATOR_OBJECT_OUT"
+			],
+			[
+				"a",
+				"ancient_connections"
+			],
+			[
+				"get_s",
+				"get_segment_count"
+			],
+			[
+				"anim",
+				"animations"
+			],
+			[
+				"zoo",
+				"zoom_animation"
+			],
+			[
+				"scree",
+				"screen_border"
+			],
+			[
+				"laptop",
+				"laptop_right"
+			],
+			[
+				"tar",
+				"target_radius"
+			],
+			[
+				"inti",
+				"__init__"
+			],
+			[
+				"fou",
+				"focus_point_z_parameter"
+			],
+			[
+				"focus_point_",
+				"focus_point_x_parameter"
+			],
+			[
+				"focu",
+				"focus_point_x"
+			],
+			[
+				"foc",
+				"focus_point_x"
+			],
+			[
+				"POS",
+				"POS_Z"
+			],
+			[
+				"ra",
+				"radius_parameter"
+			],
+			[
+				"tilt",
+				"tilt_parameter"
+			],
+			[
+				"the",
+				"theta_parameter"
+			],
+			[
+				"or",
+				"orbit"
+			],
+			[
+				"paramet",
+				"parameter_port"
+			],
+			[
+				"parameter",
+				"parameter_node"
+			],
+			[
+				"segment",
+				"segment_count_ini"
+			],
+			[
+				"fiel",
+				"field_length_parameter"
+			],
+			[
+				"Proto",
+				"ProtoAnimation"
+			],
+			[
+				"effects",
+				"effect_objects"
+			],
+			[
+				"specify_boundin",
+				"specify_bounding_box_relations"
+			],
+			[
+				"fr",
+				"frame_width"
+			],
+			[
+				"frame",
+				"frame_width"
+			],
+			[
+				"dis",
+				"distance_to_frame_width_ratio"
+			],
+			[
+				"cam",
+				"camera_objects"
+			],
+			[
+				"animation",
+				"animation_group"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Text2Morph.py",
+			"settings":
+			{
+				"buffer_size": 304,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA7QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEAAAAAAAAAQQAAAAAAAABvAAAAIyBsb2FkIHR3byBzdmcgZmlsZXMgYW5kIG1vcnBoIG9uZSB0byB0aGUgb3RoZXIKCQlzdmcxID0gU1ZHTW9iamVjdCgic3ZnMS5zdmciKQoJCXN2ZzIgPSBTVkdNb2JqZWN0KCJzdmcyLnN2ZyIp",
+					"AQAAAAAAAAABAAAAQQAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " create"
+					},
+					"BwAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " text"
+					},
+					"BQAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABRAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAE8AAAAAAAAATwAAAAAAAAACAAAACQlPAAAAAAAAAHoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAHsAAAAAAAAAewAAAAAAAAACAAAACQl7AAAAAAAAAKgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					3,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AwAAANMBAAAAAAAA0wEAAAAAAAAEAAAAc3ZnMtEBAAAAAAAA0QEAAAAAAAACAAAALCDNAQAAAAAAAM0BAAAAAAAABAAAAHN2ZzE",
+					"AQAAAAAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "text1"
+					},
+					"BQAAAM0BAAAAAAAAzgEAAAAAAAAAAAAAzgEAAAAAAADPAQAAAAAAAAAAAADPAQAAAAAAANABAAAAAAAAAAAAANABAAAAAAAA0QEAAAAAAAAAAAAA0QEAAAAAAADSAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQEAAAAAAADNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					2,
+					"left_delete",
+					null,
+					"AgAAAKsAAAAAAAAAqwAAAAAAAAALAQAAIyBzZXQgc3ZnIHRvIHdoaXRlIG91dGxpbmUgYW5kIHRyYW5zcGFyZW50IGZpbGwKCQlzdmcxLnNldF9zdHJva2UoV0hJVEUsIHdpZHRoPTEpCgkJc3ZnMS5zZXRfZmlsbChvcGFjaXR5PTApCgkJc3ZnMS5zZXRfY29sb3IoV0hJVEUpCgkJIyBzZXQgc3ZnIHRvIHdoaXRlIG91dGxpbmUgYW5kIHRyYW5zcGFyZW50IGZpbGwKCQlzdmcyLnNldF9zdHJva2UoV0hJVEUsIHdpZHRoPTEpCgkJc3ZnMi5zZXRfZmlsbChvcGFjaXR5PTApCgkJc3ZnMi5zZXRfY29sb3IoV0hJVEUpqgAAAAAAAACqAAAAAAAAAAEAAAAJ",
+					"AQAAAAAAAAABAAAAtgEAAAAAAACrAAAAAAAAAAAAAAAAAExA"
+				],
+				[
+					28,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAKkAAAAAAAAAqQAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKgAAAAAAAAAqAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "input"
+					},
+					"BQAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "_text"
+					},
+					"BQAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAABUAAAAAAAAAFQAAAAAAAAAKAAAAaW5wdXRfdGV4dA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": " get"
+					},
+					"BAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": " input"
+					},
+					"BgAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": " output"
+					},
+					"BwAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "text"
+					},
+					"BAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": " from"
+					},
+					"BQAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": " termi"
+					},
+					"BgAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "nal"
+					},
+					"AwAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " fla"
+					},
+					"BAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEEAAAAAAAAAQQAAAAAAAAABAAAAYUAAAAAAAAAAQAAAAAAAAAABAAAAbD8AAAAAAAAAPwAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAABUAAAAAAAAAFQAAAAAAAAArAAAAIyBnZXQgaW5wdXQgYW5kIG91dHB1dCB0ZXh0IGZyb20gdGVybWluYWwgYRUAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AQAAAEkAAAAAAAAAYQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AQAAAGIAAAAAAAAAewAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAA4GVA"
+				],
+				[
+					71,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AQAAABQAAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM8AAAAAAAAAzwAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPoAAAAAAAAA+gAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0AAAAAAAAA3QAAAAAAAAAPAAAALCBmb250PSJBcmlhbCIp",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADsAAAAAAAAAP///////+9/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAPsAAAAAAAAA+wAAAAAAAAAQAAAAIiwgZm9udD0iQXJpYWwiKfsAAAAAAAAADQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAALAQAAAAAAAP///////+9/"
+				],
+				[
+					99,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPwAAAAAAAAA/AAAAAAAAAAQAAAAIiwgZm9udD0iQXJpYWwiKfsAAAAAAAAA+wAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAAMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAPwAAAAAAAAA/QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "texta"
+					},
+					"BgAAABYBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAXAQAAAAAAAAUAAAB0ZXh0MRcBAAAAAAAAGAEAAAAAAAAAAAAAGAEAAAAAAAAZAQAAAAAAAAAAAAAZAQAAAAAAABoBAAAAAAAAAAAAABoBAAAAAAAAGwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgEAAAAAAAAbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"left_delete",
+					null,
+					"AQAAABoBAAAAAAAAGgEAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAGwEAAAAAAAAbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "12,"
+					},
+					"AwAAABoBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAB0BAAAAAAAAHgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					4,
+					"left_delete",
+					null,
+					"BAAAAB0BAAAAAAAAHQEAAAAAAAABAAAAIBwBAAAAAAAAHAEAAAAAAAABAAAALBsBAAAAAAAAGwEAAAAAAAABAAAAMhoBAAAAAAAAGgEAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAHgEAAAAAAAAeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "1,"
+					},
+					"AgAAABoBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": " text2"
+					},
+					"BgAAABwBAAAAAAAAHQEAAAAAAAAAAAAAHQEAAAAAAAAeAQAAAAAAAAAAAAAeAQAAAAAAAB8BAAAAAAAAAAAAAB8BAAAAAAAAIAEAAAAAAAAAAAAAIAEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACIBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAEAAAAAAAAcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"insert",
+					{
+						"characters": "Text"
+					},
+					"BAAAAI4AAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJEAAAAAAAAAAAAAAJEAAAAAAAAAkgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAI4AAAAAAAAAjgAAAAAAAAAEAAAAVGV4dA",
+					"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "media/images/Text2Morph/Morph.mov",
+			"settings":
+			{
+				"buffer_size": 16822975,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "(manim) davidrug@Davids-MacBook-Pro-2 Text2Morph %                                                    \n(manim) davidrug@Davids-MacBook-Pro-2 Text2Morph % manim Text2Morph.py -t --format=\"png\" -fps 30      \nManim Community v0.17.3                                                                             \n                                                                                                    \n[04/14/24 20:07:12] WARNING  The short form of show_in_file_browser is deprecated and               \n                                                                                                      ​‌​\n               will be moved to support --format.                                                   \n                    ERROR                                                                           \n                                                                                                      ​‌​\n                30 is not in the script                                                             \n                                                                                                      \n                    INFO                                                                              \n                                                                                                      ​‌​\n     0 images ready at /Users/davidrug/Library/Mobile                                               \n                             Documents/iCloud~md~obsidian/Documents/InterBrai                         \n                             n/Text2Morph/media/images/Text2Morph/Morph                               \n                                                                                                      \n                    INFO                                                                            \n                                                                                                      ​‌​\n     File ready at '/Users/davidrug/Library/Mobile                                                  \n                             Documents/iCloud~md~obsidian/Documents/InterBrai                         \n                             n/Text2Morph/media/images/Text2Morph/Morph_Manim                         \n                             CE_v0.17.3.png'                                                          \n                                                                                                      \n                    INFO     Rendered Morph                                                           \n                                                                                                      ​‌​\n                 Played 1 animations                                                      \n                    INFO     Previewed File at: '/Users/davidrug/Library/Mobile                       \n                                                                                                      ​‌​\n              Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Mo                \n                             rph/media/images/Text2Morph/Morph_ManimCE_v0.17.3.png'                   \nYou are using manim version v0.17.3, but version v0.18.0.post0 is available.\nYou should consider upgrading via pip install -U manim\n(manim) davidrug@Davids-MacBook-Pro-2 Text2Morph % manim Text2Morph.py -t --format=\"png\" --fps 30     \nManim Community v0.17.3\n\n[04/14/24 20:08:17] INFO                                                                              \n                                                                                                      ​‌​\n     90 images ready at                                                       \n                             /Users/davidrug/Library/Mobile                                           \n                             Documents/iCloud~md~obsidian/Documents/InterBrai                         \n                             n/Text2Morph/media/images/Text2Morph/Morph                               \n                                                                                                      \n                    INFO     Rendered Morph                                               \n                                                                                                      ​‌​\n                 Played 1 animations                                                      \nYou are using manim version v0.17.3, but version v0.18.0.post0 is available.\nYou should consider upgrading via pip install -U manim\n(manim) davidrug@Davids-MacBook-Pro-2 Text2Morph % ",
+			"settings":
+			{
+				"buffer_size": 4597,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					203,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAOIMAAAAAAAAQg0AAAAAAAAzAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBUZXh0Mk1vcnBoICUgQg0AAAAAAABIDQAAAAAAAAAAAABCDQAAAAAAAEINAAAAAAAABgAAACAgICAgIA",
+					"AQAAAAAAAAABAAAAFQ0AAAAAAAAVDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					217,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAOIMAAAAAAAAQw0AAAAAAABgAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBUZXh0Mk1vcnBoICUgbWFuaW0gVGV4dDJNb3JwaC5weSAtdCAtLWZvcm1hdD0icG5nIiAtZnBzIDMwQw0AAAAAAABIDQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPA0AAAAAAAA8DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					10,
+					"terminus_render",
+					null,
+					"fQAAAM4AAAAAAAAA5QAAAAAAAABkAAAATWFuaW0gQ29tbXVuaXR5IHYwLjE3LjMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOUAAAAAAAAAMgEAAAAAAAAAAAAAMwEAAAAAAAAzAQAAAAAAAGQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMwEAAAAAAACXAQAAAAAAAAAAAACYAQAAAAAAAO0BAAAAAAAAZAAAAFswNC8xNC8yNCAyMDowNzoxMl0gV0FSTklORyAgVGhlIHNob3J0IGZvcm0gb2Ygc2hvd19pbl9maWxlX2Jyb3dzZXIgaXMgZGVwcmVjYXRlZCBhbmQgICAgICAgICAgICAgICDtAQAAAAAAAPwBAAAAAAAAAAAAAP0BAAAAAAAAZgIAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLZwIAAAAAAACYAgAAAAAAAGQAAAAgICAgICAgICAgICAgICB3aWxsIGJlIG1vdmVkIHRvIHN1cHBvcnQgLS1mb3JtYXQuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgmAIAAAAAAADLAgAAAAAAAAAAAADMAgAAAAAAAOUCAAAAAAAAZAAAACAgICAgICAgICAgICAgICAgICAgRVJST1IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDlAgAAAAAAADADAAAAAAAAAAAAADEDAAAAAAAAmgMAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLmwMAAAAAAADCAwAAAAAAAGQAAAAgICAgICAgICAgICAgICAgMzAgaXMgbm90IGluIHRoZSBzY3JpcHQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgwgMAAAAAAAD/AwAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAAEAAAAAAAAZgQAAAAAAAAAAAAAZwQAAAAAAAB/BAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB/BAAAAAAAAM0EAAAAAAAAAAAAAM4EAAAAAAAANwUAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLOAUAAAAAAABtBQAAAAAAAGQAAAAgICAgIDAgaW1hZ2VzIHJlYWR5IGF0IC9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbQUAAAAAAACcBQAAAAAAAAAAAACdBQAAAAAAAOoFAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpICAgICAgICAgICAgICAgICAgICAgICAgIOoFAAAAAAAAAwYAAAAAAAAAAAAABAYAAAAAAABLBgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4vVGV4dDJNb3JwaC9tZWRpYS9pbWFnZXMvVGV4dDJNb3JwaC9Nb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBLBgAAAAAAAGoGAAAAAAAAAAAAAGsGAAAAAAAAawYAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgawYAAAAAAADRBgAAAAAAAAAAAADSBgAAAAAAAOoGAAAAAAAAZAAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDqBgAAAAAAADYHAAAAAAAAAAAAADcHAAAAAAAAoAcAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLoQcAAAAAAADTBwAAAAAAAGQAAAAgICAgIEZpbGUgcmVhZHkgYXQgJy9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg0wcAAAAAAAAFCAAAAAAAAAAAAAAGCAAAAAAAAFMIAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpICAgICAgICAgICAgICAgICAgICAgICAgIFMIAAAAAAAAbAgAAAAAAAAAAAAAbQgAAAAAAAC6CAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4vVGV4dDJNb3JwaC9tZWRpYS9pbWFnZXMvVGV4dDJNb3JwaC9Nb3JwaF9NYW5pbSAgICAgICAgICAgICAgICAgICAgICAgICC6CAAAAAAAANMIAAAAAAAAAAAAANQIAAAAAAAAAAkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDRV92MC4xNy4zLnBuZycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAAkAAAAAAAA6CQAAAAAAAAAAAAA7CQAAAAAAADsJAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsJAAAAAAAAoQkAAAAAAAAAAAAAogkAAAAAAADNCQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFJlbmRlcmVkIE1vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDNCQAAAAAAAAgKAAAAAAAAAAAAAAkKAAAAAAAAcgoAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLcwoAAAAAAACXCgAAAAAAAFoAAAAgICAgICAgICAgICAgICAgIFBsYXllZCAxIGFuaW1hdGlvbnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCXCgAAAAAAAM0KAAAAAAAAAAAAAM4KAAAAAAAAHQsAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBQcmV2aWV3ZWQgRmlsZSBhdDogJy9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgHQsAAAAAAAA0CwAAAAAAAAAAAAA1CwAAAAAAAJ4LAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi58LAAAAAAAA5gsAAAAAAABXAAAAICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWluL1RleHQyTW8gICAgICAgICAgICAgICAg5gsAAAAAAAD2CwAAAAAAAAAAAAD3CwAAAAAAAEoMAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnBoL21lZGlhL2ltYWdlcy9UZXh0Mk1vcnBoL01vcnBoX01hbmltQ0VfdjAuMTcuMy5wbmcnICAgICAgICAgICAgICAgICAgIEoMAAAAAAAAXQwAAAAAAAAAAAAAXgwAAAAAAACqDAAAAAAAAEwAAABZb3UgYXJlIHVzaW5nIG1hbmltIHZlcnNpb24gdjAuMTcuMywgYnV0IHZlcnNpb24gdjAuMTguMC5wb3N0MCBpcyBhdmFpbGFibGUuqwwAAAAAAADhDAAAAAAAADYAAABZb3Ugc2hvdWxkIGNvbnNpZGVyIHVwZ3JhZGluZyB2aWEgcGlwIGluc3RhbGwgLVUgbWFuaW3iDAAAAAAAAEMNAAAAAAAAZgAAAChtYW5pbSkgZGF2aWRydWdARGF2aWRzLU1hY0Jvb2stUHJvLTIgVGV4dDJNb3JwaCAlIG1hbmltIFRleHQyTW9ycGgucHkgLXQgLS1mb3JtYXQ9InBuZyIgLS1mcHMgMzAgICAgIEMNAAAAAAAASA0AAAAAAAAAAAAASA0AAAAAAABJDQAAAAAAAAAAAABJDQAAAAAAAEkNAAAAAAAAAAAAAJgBAAAAAAAA7QEAAAAAAABkAAAAWzA0LzE0LzI0IDIwOjA3OjEyXSBXQVJOSU5HICBUaGUgc2hvcnQgZm9ybSBvZiBzaG93X2luX2ZpbGVfYnJvd3NlciBpcyBkZXByZWNhdGVkIGFuZCAgICAgICAgICAgICAgIO0BAAAAAAAA/AEAAAAAAAAAAAAAMwEAAAAAAAAzAQAAAAAAAGQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMwEAAAAAAACXAQAAAAAAAAAAAAD9AQAAAAAAAGYCAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi2cCAAAAAAAAmAIAAAAAAABkAAAAICAgICAgICAgICAgICAgd2lsbCBiZSBtb3ZlZCB0byBzdXBwb3J0IC0tZm9ybWF0LiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJgCAAAAAAAAywIAAAAAAAAAAAAAzAIAAAAAAADlAgAAAAAAAGQAAAAgICAgICAgICAgICAgICAgICAgIEVSUk9SICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg5QIAAAAAAAAwAwAAAAAAAAAAAAAxAwAAAAAAAJoDAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi5sDAAAAAAAAwgMAAAAAAABkAAAAICAgICAgICAgICAgICAgIDMwIGlzIG5vdCBpbiB0aGUgc2NyaXB0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIMIDAAAAAAAA/wMAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAABAAAAAAAAGYEAAAAAAAAAAAAAGcEAAAAAAAAfwQAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfwQAAAAAAADNBAAAAAAAAAAAAADOBAAAAAAAADcFAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAizgFAAAAAAAAbQUAAAAAAABkAAAAICAgICAwIGltYWdlcyByZWFkeSBhdCAvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG0FAAAAAAAAnAUAAAAAAAAAAAAAnQUAAAAAAADqBQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICDqBQAAAAAAAAMGAAAAAAAAAAAAAAQGAAAAAAAASwYAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1RleHQyTW9ycGgvbWVkaWEvaW1hZ2VzL1RleHQyTW9ycGgvTW9ycGggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSwYAAAAAAABqBgAAAAAAAAAAAABrBgAAAAAAAGsGAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGsGAAAAAAAA0QYAAAAAAAAAAAAA0gYAAAAAAADqBgAAAAAAAGQAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6gYAAAAAAAA2BwAAAAAAAAAAAAA3BwAAAAAAAKAHAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi6EHAAAAAAAA0wcAAAAAAABkAAAAICAgICBGaWxlIHJlYWR5IGF0ICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgINMHAAAAAAAABQgAAAAAAAAAAAAABggAAAAAAABTCAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICBTCAAAAAAAAGwIAAAAAAAAAAAAAG0IAAAAAAAAuggAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1RleHQyTW9ycGgvbWVkaWEvaW1hZ2VzL1RleHQyTW9ycGgvTW9ycGhfTWFuaW0gICAgICAgICAgICAgICAgICAgICAgICAguggAAAAAAADTCAAAAAAAAAAAAADUCAAAAAAAAAAJAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ0VfdjAuMTcuMy5wbmcnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAAJAAAAAAAAOgkAAAAAAAAAAAAAOwkAAAAAAAA7CQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7CQAAAAAAAKEJAAAAAAAAAAAAAKIJAAAAAAAAzQkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBSZW5kZXJlZCBNb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzQkAAAAAAAAICgAAAAAAAAAAAAAJCgAAAAAAAHIKAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi3MKAAAAAAAAlwoAAAAAAABaAAAAICAgICAgICAgICAgICAgICBQbGF5ZWQgMSBhbmltYXRpb25zICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAglwoAAAAAAADNCgAAAAAAAAAAAADOCgAAAAAAAB0LAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgUHJldmlld2VkIEZpbGUgYXQ6ICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgIB0LAAAAAAAANAsAAAAAAAAAAAAANQsAAAAAAACeCwAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIufCwAAAAAAAOYLAAAAAAAAVwAAACAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpbi9UZXh0Mk1vICAgICAgICAgICAgICAgIOYLAAAAAAAA9gsAAAAAAAAAAAAA9wsAAAAAAABKDAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJwaC9tZWRpYS9pbWFnZXMvVGV4dDJNb3JwaC9Nb3JwaF9NYW5pbUNFX3YwLjE3LjMucG5nJyAgICAgICAgICAgICAgICAgICBKDAAAAAAAAF0MAAAAAAAAAAAAAF4MAAAAAAAAqgwAAAAAAABMAAAAWW91IGFyZSB1c2luZyBtYW5pbSB2ZXJzaW9uIHYwLjE3LjMsIGJ1dCB2ZXJzaW9uIHYwLjE4LjAucG9zdDAgaXMgYXZhaWxhYmxlLqsMAAAAAAAA4QwAAAAAAAA2AAAAWW91IHNob3VsZCBjb25zaWRlciB1cGdyYWRpbmcgdmlhIHBpcCBpbnN0YWxsIC1VIG1hbmlt4gwAAAAAAABDDQAAAAAAAGYAAAAobWFuaW0pIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBtYW5pbSBUZXh0Mk1vcnBoLnB5IC10IC0tZm9ybWF0PSJwbmciIC0tZnBzIDMwICAgICBDDQAAAAAAAEgNAAAAAAAAAAAAAEkNAAAAAAAAYA0AAAAAAAAAAAAAYA0AAAAAAABhDQAAAAAAAAAAAABhDQAAAAAAAGENAAAAAAAAAAAAAGENAAAAAAAAYg0AAAAAAAAAAAAAYg0AAAAAAABiDQAAAAAAAAAAAABiDQAAAAAAAMgNAAAAAAAAAAAAAGINAAAAAAAAyA0AAAAAAABmAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogICAwJXwgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMC85MCBbMDA6MDA8PywgP2l0L3NdYg0AAAAAAADIDQAAAAAAAGgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgIDIlfOKWjSAgICAgICAgICAgICAgICAgICAgfCAyLzkwIFswMDowMDwwMDowOCwgMTAuNTNpdC9zXWINAAAAAAAAyA0AAAAAAABoAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogICA0JXzilokgICAgICAgICAgICAgICAgICAgIHwgNC85MCBbMDA6MDA8MDA6MDgsIDEwLjY4aXQvc11iDQAAAAAAAMgNAAAAAAAAagAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAgNyV84paI4paNICAgICAgICAgICAgICAgICAgIHwgNi85MCBbMDA6MDA8MDA6MDcsIDEwLjY2aXQvc11iDQAAAAAAAMgNAAAAAAAAagAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAgOSV84paI4paKICAgICAgICAgICAgICAgICAgIHwgOC85MCBbMDA6MDA8MDA6MDcsIDEwLjY0aXQvc11iDQAAAAAAAMgNAAAAAAAAbAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAxMSV84paI4paI4paPICAgICAgICAgICAgICAgICB8IDEwLzkwIFswMDowMDwwMDowNywgMTAuNjVpdC9zXWINAAAAAAAAyA0AAAAAAABsAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDEzJXzilojilojilosgICAgICAgICAgICAgICAgIHwgMTIvOTAgWzAwOjAxPDAwOjA3LCAxMC41N2l0L3Nd",
+					"AQAAAAAAAAABAAAAPQ0AAAAAAAA9DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					11,
+					"terminus_render",
+					null,
+					"CwAAAGINAAAAAAAAyA0AAAAAAABsAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDE2JXzilojilojiloggICAgICAgICAgICAgICAgIHwgMTQvOTAgWzAwOjAxPDAwOjA3LCAxMC40OWl0L3NdYg0AAAAAAADIDQAAAAAAAG4AAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgMTglfOKWiOKWiOKWiOKWjCAgICAgICAgICAgICAgICB8IDE2LzkwIFswMDowMTwwMDowNywgMTAuNTJpdC9zXWINAAAAAAAAyA0AAAAAAABuAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDIwJXzilojilojilojiloggICAgICAgICAgICAgICAgfCAxOC85MCBbMDA6MDE8MDA6MDYsIDEwLjU1aXQvc11iDQAAAAAAAMgNAAAAAAAAcAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAyMiV84paI4paI4paI4paI4paNICAgICAgICAgICAgICAgfCAyMC85MCBbMDA6MDE8MDA6MDYsIDEwLjYyaXQvc11iDQAAAAAAAMgNAAAAAAAAcAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAyNCV84paI4paI4paI4paI4paJICAgICAgICAgICAgICAgfCAyMi85MCBbMDA6MDI8MDA6MDYsIDEwLjY1aXQvc11iDQAAAAAAAMgNAAAAAAAAcgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAyNyV84paI4paI4paI4paI4paI4paOICAgICAgICAgICAgICB8IDI0LzkwIFswMDowMjwwMDowNiwgMTAuNTBpdC9zXWINAAAAAAAAyA0AAAAAAAByAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDI5JXzilojilojilojilojilojiloogICAgICAgICAgICAgIHwgMjYvOTAgWzAwOjAyPDAwOjA2LCAxMC41MWl0L3NdYg0AAAAAAADIDQAAAAAAAHQAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgMzElfOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgICAgICAgICAgICB8IDI4LzkwIFswMDowMjwwMDowNSwgMTAuNTVpdC9zXWINAAAAAAAAyA0AAAAAAAB0AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDMzJXzilojilojilojilojilojilojilosgICAgICAgICAgICAgfCAzMC85MCBbMDA6MDI8MDA6MDUsIDEwLjU1aXQvc11iDQAAAAAAAMgNAAAAAAAAdAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICAzNiV84paI4paI4paI4paI4paI4paI4paIICAgICAgICAgICAgIHwgMzIvOTAgWzAwOjAzPDAwOjA1LCAxMC41NGl0L3NdYg0AAAAAAADIDQAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgMzglfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgICAgICAgICAgIHwgMzQvOTAgWzAwOjAzPDAwOjA1LCAxMC41OGl0L3Nd",
+					"AQAAAAAAAAABAAAAyA0AAAAAAADIDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					11,
+					"terminus_render",
+					null,
+					"CwAAAGINAAAAAAAAyA0AAAAAAAB2AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDQwJXzilojilojilojilojilojilojilojiloggICAgICAgICAgICB8IDM2LzkwIFswMDowMzwwMDowNSwgMTAuNjRpdC9zXWINAAAAAAAAyA0AAAAAAAB4AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDQyJXzilojilojilojilojilojilojilojilojilo0gICAgICAgICAgIHwgMzgvOTAgWzAwOjAzPDAwOjA0LCAxMC42N2l0L3NdYg0AAAAAAADIDQAAAAAAAHgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgNDQlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiSAgICAgICAgICAgfCA0MC85MCBbMDA6MDM8MDA6MDQsIDEwLjU3aXQvc11iDQAAAAAAAMgNAAAAAAAAegAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA0NyV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paOICAgICAgICAgIHwgNDIvOTAgWzAwOjAzPDAwOjA0LCAxMC42MGl0L3NdYg0AAAAAAADIDQAAAAAAAHoAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgNDklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiiAgICAgICAgICB8IDQ0LzkwIFswMDowNDwwMDowNCwgMTAuNjJpdC9zXWINAAAAAAAAyA0AAAAAAAB8AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDUxJXzilojilojilojilojilojilojilojilojilojilojilo8gICAgICAgICB8IDQ2LzkwIFswMDowNDwwMDowNCwgMTAuNjhpdC9zXWINAAAAAAAAyA0AAAAAAAB8AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDUzJXzilojilojilojilojilojilojilojilojilojilojilosgICAgICAgICB8IDQ4LzkwIFswMDowNDwwMDowMywgMTAuNjVpdC9zXWINAAAAAAAAyA0AAAAAAAB8AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDU2JXzilojilojilojilojilojilojilojilojilojilojiloggICAgICAgICB8IDUwLzkwIFswMDowNDwwMDowMywgMTAuNjVpdC9zXWINAAAAAAAAyA0AAAAAAAB+AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDU4JXzilojilojilojilojilojilojilojilojilojilojilojilowgICAgICAgIHwgNTIvOTAgWzAwOjA0PDAwOjAzLCAxMC42N2l0L3NdYg0AAAAAAADIDQAAAAAAAH4AAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgNjAlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgICAgfCA1NC85MCBbMDA6MDU8MDA6MDMsIDEwLjY3aXQvc11iDQAAAAAAAMgNAAAAAAAAgAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA2MiV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paNICAgICAgIHwgNTYvOTAgWzAwOjA1PDAwOjAzLCAxMC42NGl0L3Nd",
+					"AQAAAAAAAAABAAAAyA0AAAAAAADIDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					222,
+					11,
+					"terminus_render",
+					null,
+					"CwAAAGINAAAAAAAAyA0AAAAAAACAAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDY0JXzilojilojilojilojilojilojilojilojilojilojilojilojilokgICAgICAgfCA1OC85MCBbMDA6MDU8MDA6MDMsIDEwLjY1aXQvc11iDQAAAAAAAMgNAAAAAAAAggAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA2NyV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paOICAgICAgfCA2MC85MCBbMDA6MDU8MDA6MDIsIDEwLjU3aXQvc11iDQAAAAAAAMgNAAAAAAAAggAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA2OSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paKICAgICAgfCA2Mi85MCBbMDA6MDU8MDA6MDIsIDEwLjQ4aXQvc11iDQAAAAAAAMgNAAAAAAAAhAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA3MSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paPICAgICB8IDY0LzkwIFswMDowNjwwMDowMiwgMTAuMzlpdC9zXWINAAAAAAAAyA0AAAAAAACEAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDczJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilosgICAgIHwgNjYvOTAgWzAwOjA2PDAwOjAyLCAxMC4xOGl0L3NdYg0AAAAAAADIDQAAAAAAAIQAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgNzYlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgfCA2OC85MCBbMDA6MDY8MDA6MDIsIDEwLjE5aXQvc11iDQAAAAAAAMgNAAAAAAAAhgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA3OCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paMICAgIHwgNzAvOTAgWzAwOjA2PDAwOjAxLCAxMC4yNWl0L3NdYg0AAAAAAADIDQAAAAAAAIYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgODAlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICB8IDcyLzkwIFswMDowNjwwMDowMSwgMTAuMzBpdC9zXWINAAAAAAAAyA0AAAAAAACIAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDgyJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo0gICB8IDc0LzkwIFswMDowNzwwMDowMSwgMTAuMzVpdC9zXWINAAAAAAAAyA0AAAAAAACIAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDg0JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilokgICB8IDc2LzkwIFswMDowNzwwMDowMSwgMTAuMzhpdC9zXWINAAAAAAAAyA0AAAAAAACKAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDg3JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo4gIHwgNzgvOTAgWzAwOjA3PDAwOjAxLCAxMC40NGl0L3Nd",
+					"AQAAAAAAAAABAAAAyA0AAAAAAADIDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					7,
+					"terminus_render",
+					null,
+					"kgAAAGINAAAAAAAAyA0AAAAAAACKAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDg5JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloogIHwgODAvOTAgWzAwOjA3PDAwOjAwLCAxMC40NGl0L3NdYg0AAAAAAADIDQAAAAAAAIwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFRleHQoJ0hlbGxvIFdvcmxkJykpOiAgOTElfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjyB8IDgyLzkwIFswMDowNzwwMDowMCwgMTAuNDVpdC9zXWINAAAAAAAAyA0AAAAAAACMAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShUZXh0KCdIZWxsbyBXb3JsZCcpKTogIDkzJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilosgfCA4NC85MCBbMDA6MDc8MDA6MDAsIDEwLjQ3aXQvc11iDQAAAAAAAMgNAAAAAAAAjAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA5NiV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paIIHwgODYvOTAgWzAwOjA4PDAwOjAwLCAxMC40N2l0L3NdnQUAAAAAAADqBQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICDqBQAAAAAAAAMGAAAAAAAAAAAAADgFAAAAAAAAbQUAAAAAAABkAAAAICAgICAwIGltYWdlcyByZWFkeSBhdCAvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG0FAAAAAAAAnAUAAAAAAAAAAAAAzgQAAAAAAAA3BQAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigItnBAAAAAAAAH8EAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH8EAAAAAAAAzQQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAABAAAAAAAAGYEAAAAAAAAAAAAAJsDAAAAAAAAwgMAAAAAAABkAAAAICAgICAgICAgICAgICAgIDMwIGlzIG5vdCBpbiB0aGUgc2NyaXB0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIMIDAAAAAAAA/wMAAAAAAAAAAAAAMQMAAAAAAACaAwAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIvMAgAAAAAAAOUCAAAAAAAAZAAAACAgICAgICAgICAgICAgICAgICAgRVJST1IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDlAgAAAAAAADADAAAAAAAAAAAAAGcCAAAAAAAAmAIAAAAAAABkAAAAICAgICAgICAgICAgICAgd2lsbCBiZSBtb3ZlZCB0byBzdXBwb3J0IC0tZm9ybWF0LiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJgCAAAAAAAAywIAAAAAAAAAAAAA/QEAAAAAAABmAgAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIsEBgAAAAAAAEsGAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9UZXh0Mk1vcnBoL21lZGlhL2ltYWdlcy9UZXh0Mk1vcnBoL01vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEsGAAAAAAAAagYAAAAAAAAAAAAAawYAAAAAAABrBgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrBgAAAAAAANEGAAAAAAAAAAAAANIGAAAAAAAA6gYAAAAAAABkAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOoGAAAAAAAANgcAAAAAAAAAAAAANwcAAAAAAACgBwAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIuhBwAAAAAAANMHAAAAAAAAZAAAACAgICAgRmlsZSByZWFkeSBhdCAnL1VzZXJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDTBwAAAAAAAAUIAAAAAAAAAAAAAAYIAAAAAAAAUwgAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWkgICAgICAgICAgICAgICAgICAgICAgICAgUwgAAAAAAABsCAAAAAAAAAAAAABtCAAAAAAAALoIAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9UZXh0Mk1vcnBoL21lZGlhL2ltYWdlcy9UZXh0Mk1vcnBoL01vcnBoX01hbmltICAgICAgICAgICAgICAgICAgICAgICAgILoIAAAAAAAA0wgAAAAAAAAAAAAA1AgAAAAAAAAACQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENFX3YwLjE3LjMucG5nJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAACQAAAAAAADoJAAAAAAAAAAAAADsJAAAAAAAAOwkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOwkAAAAAAAChCQAAAAAAAAAAAACiCQAAAAAAAM0JAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgUmVuZGVyZWQgTW9ycGggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIM0JAAAAAAAACAoAAAAAAAAAAAAACQoAAAAAAAByCgAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigItzCgAAAAAAAJcKAAAAAAAAWgAAACAgICAgICAgICAgICAgICAgUGxheWVkIDEgYW5pbWF0aW9ucyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJcKAAAAAAAAzQoAAAAAAAAAAAAAzgoAAAAAAAAdCwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFByZXZpZXdlZCBGaWxlIGF0OiAnL1VzZXJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAdCwAAAAAAADQLAAAAAAAAAAAAADULAAAAAAAAngsAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLnwsAAAAAAADmCwAAAAAAAFcAAAAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaW4vVGV4dDJNbyAgICAgICAgICAgICAgICDmCwAAAAAAAPYLAAAAAAAAAAAAAPcLAAAAAAAASgwAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBycGgvbWVkaWEvaW1hZ2VzL1RleHQyTW9ycGgvTW9ycGhfTWFuaW1DRV92MC4xNy4zLnBuZycgICAgICAgICAgICAgICAgICAgSgwAAAAAAABdDAAAAAAAAAAAAABeDAAAAAAAAKoMAAAAAAAATAAAAFlvdSBhcmUgdXNpbmcgbWFuaW0gdmVyc2lvbiB2MC4xNy4zLCBidXQgdmVyc2lvbiB2MC4xOC4wLnBvc3QwIGlzIGF2YWlsYWJsZS6rDAAAAAAAAOEMAAAAAAAANgAAAFlvdSBzaG91bGQgY29uc2lkZXIgdXBncmFkaW5nIHZpYSBwaXAgaW5zdGFsbCAtVSBtYW5pbeIMAAAAAAAAQw0AAAAAAABmAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBUZXh0Mk1vcnBoICUgbWFuaW0gVGV4dDJNb3JwaC5weSAtdCAtLWZvcm1hdD0icG5nIiAtLWZwcyAzMCAgICAgQw0AAAAAAABIDQAAAAAAAAAAAABJDQAAAAAAAGANAAAAAAAAFwAAAE1hbmltIENvbW11bml0eSB2MC4xNy4zYQ0AAAAAAABhDQAAAAAAAAAAAABiDQAAAAAAAHoNAAAAAAAAjgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oVGV4dCgnSGVsbG8gV29ybGQnKSk6ICA5OCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paMfCA4OC85MCBbMDA6MDg8MDA6MDAsIDEwLjQ2aXQvc116DQAAAAAAAMgNAAAAAAAAAAAAAMgNAAAAAAAAyQ0AAAAAAAAAAAAAyQ0AAAAAAAAyDgAAAAAAAAAAAAAyDgAAAAAAADMOAAAAAAAAAAAAADMOAAAAAAAASg4AAAAAAAAAAAAASg4AAAAAAACBDgAAAAAAAAAAAACBDgAAAAAAAIIOAAAAAAAAAAAAAIIOAAAAAAAAvQ4AAAAAAAAAAAAAvQ4AAAAAAADoDgAAAAAAAAAAAADoDgAAAAAAAOkOAAAAAAAAAAAAAOkOAAAAAAAANg8AAAAAAAAAAAAANg8AAAAAAABPDwAAAAAAAAAAAABPDwAAAAAAAFAPAAAAAAAAAAAAAFAPAAAAAAAAlw8AAAAAAAAAAAAAlw8AAAAAAAC2DwAAAAAAAAAAAAC2DwAAAAAAALcPAAAAAAAAAAAAALcPAAAAAAAAtw8AAAAAAAAAAAAAtw8AAAAAAAAdEAAAAAAAAAAAAAAdEAAAAAAAAB4QAAAAAAAAAAAAAB4QAAAAAAAASRAAAAAAAAAAAAAASRAAAAAAAAB4EAAAAAAAAAAAAAB4EAAAAAAAAHkQAAAAAAAAAAAAAHkQAAAAAAAA4hAAAAAAAAAAAAAA4hAAAAAAAADjEAAAAAAAAAAAAADjEAAAAAAAAAcRAAAAAAAAAAAAAAcRAAAAAAAAPREAAAAAAAAAAAAAPREAAAAAAAA+EQAAAAAAAAAAAAA+EQAAAAAAAD4RAAAAAAAAAAAAAGsGAAAAAAAAawYAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgawYAAAAAAADRBgAAAAAAAAAAAAAEBgAAAAAAAEsGAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9UZXh0Mk1vcnBoL21lZGlhL2ltYWdlcy9UZXh0Mk1vcnBoL01vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEsGAAAAAAAAagYAAAAAAAAAAAAA0gYAAAAAAADqBgAAAAAAAGQAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6gYAAAAAAAA2BwAAAAAAAAAAAAA3BwAAAAAAAKAHAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi6EHAAAAAAAA0wcAAAAAAABkAAAAICAgICBGaWxlIHJlYWR5IGF0ICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgINMHAAAAAAAABQgAAAAAAAAAAAAABggAAAAAAABTCAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICBTCAAAAAAAAGwIAAAAAAAAAAAAAG0IAAAAAAAAuggAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1RleHQyTW9ycGgvbWVkaWEvaW1hZ2VzL1RleHQyTW9ycGgvTW9ycGhfTWFuaW0gICAgICAgICAgICAgICAgICAgICAgICAguggAAAAAAADTCAAAAAAAAAAAAADUCAAAAAAAAAAJAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ0VfdjAuMTcuMy5wbmcnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAAJAAAAAAAAOgkAAAAAAAAAAAAAOwkAAAAAAAA7CQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7CQAAAAAAAKEJAAAAAAAAAAAAAKIJAAAAAAAAzQkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBSZW5kZXJlZCBNb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgzQkAAAAAAAAICgAAAAAAAAAAAAAJCgAAAAAAAHIKAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi3MKAAAAAAAAlwoAAAAAAABaAAAAICAgICAgICAgICAgICAgICBQbGF5ZWQgMSBhbmltYXRpb25zICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAglwoAAAAAAADNCgAAAAAAAAAAAADOCgAAAAAAAB0LAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgUHJldmlld2VkIEZpbGUgYXQ6ICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgIB0LAAAAAAAANAsAAAAAAAAAAAAANQsAAAAAAACeCwAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIufCwAAAAAAAOYLAAAAAAAAVwAAACAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpbi9UZXh0Mk1vICAgICAgICAgICAgICAgIOYLAAAAAAAA9gsAAAAAAAAAAAAA9wsAAAAAAABKDAAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJwaC9tZWRpYS9pbWFnZXMvVGV4dDJNb3JwaC9Nb3JwaF9NYW5pbUNFX3YwLjE3LjMucG5nJyAgICAgICAgICAgICAgICAgICBKDAAAAAAAAF0MAAAAAAAAAAAAAF4MAAAAAAAAqgwAAAAAAABMAAAAWW91IGFyZSB1c2luZyBtYW5pbSB2ZXJzaW9uIHYwLjE3LjMsIGJ1dCB2ZXJzaW9uIHYwLjE4LjAucG9zdDAgaXMgYXZhaWxhYmxlLqsMAAAAAAAA4QwAAAAAAAA2AAAAWW91IHNob3VsZCBjb25zaWRlciB1cGdyYWRpbmcgdmlhIHBpcCBpbnN0YWxsIC1VIG1hbmlt4gwAAAAAAABDDQAAAAAAAGYAAAAobWFuaW0pIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBtYW5pbSBUZXh0Mk1vcnBoLnB5IC10IC0tZm9ybWF0PSJwbmciIC0tZnBzIDMwICAgICBDDQAAAAAAAEgNAAAAAAAAAAAAAEkNAAAAAAAAYA0AAAAAAAAXAAAATWFuaW0gQ29tbXVuaXR5IHYwLjE3LjNhDQAAAAAAAGENAAAAAAAAAAAAAGINAAAAAAAAeg0AAAAAAABmAAAAWzA0LzE0LzI0IDIwOjA4OjE3XSBJTkZPICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeg0AAAAAAADIDQAAAAAAAAAAAADJDQAAAAAAADIOAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAizMOAAAAAAAASg4AAAAAAABOAAAAICAgICA5MCBpbWFnZXMgcmVhZHkgYXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSg4AAAAAAACBDgAAAAAAAAAAAACCDgAAAAAAAL0OAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgL1VzZXJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIL0OAAAAAAAA6A4AAAAAAAAAAAAA6Q4AAAAAAAA2DwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICA2DwAAAAAAAE8PAAAAAAAAAAAAAFAPAAAAAAAAlw8AAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1RleHQyTW9ycGgvbWVkaWEvaW1hZ2VzL1RleHQyTW9ycGgvTW9ycGggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAglw8AAAAAAAC2DwAAAAAAAAAAAAC3DwAAAAAAALcPAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgILcPAAAAAAAAHRAAAAAAAAAAAAAAHhAAAAAAAABJEAAAAAAAAFoAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFJlbmRlcmVkIE1vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJEAAAAAAAAHgQAAAAAAAAAAAAAHkQAAAAAAAA4hAAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCL4xAAAAAAAAAHEQAAAAAAAFoAAAAgICAgICAgICAgICAgICAgIFBsYXllZCAxIGFuaW1hdGlvbnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAHEQAAAAAAAD0RAAAAAAAAAAAAAD4RAAAAAAAAihEAAAAAAAAAAAAAihEAAAAAAACLEQAAAAAAAAAAAACLEQAAAAAAAMERAAAAAAAAAAAAAMERAAAAAAAAwhEAAAAAAAAAAAAAwhEAAAAAAADCEQAAAAAAAAAAAADCEQAAAAAAAPQRAAAAAAAAAAAAAPQRAAAAAAAAKBIAAAAAAAAAAAAA9REAAAAAAAD1EQAAAAAAADMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAyA0AAAAAAADIDQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "(base) davidrug@Davids-MacBook-Pro-2 Text2Morph % png2video Morph 30                                  \nffmpeg version 6.1.1 Copyright (c) 2000-2023 the FFmpeg developers\n  built with Apple clang version 15.0.0 (clang-1500.3.9.4)\n  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.1.1_7 --enable-shared --enable-pthreads --enab​‌​\nle-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls​‌​\n --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libhar​‌​\nfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable​‌​\n-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesse​‌​\nract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enab​‌​\nle-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-​‌​\nlibfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable​‌​\n-libopencore-amrwb --enable-libopenjpeg --enable-libopenvino --enable-libspeex --enable-libsoxr --enab​‌​\nle-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audio​‌​\ntoolbox --enable-neon\n  libavutil      58. 29.100 / 58. 29.100\n  libavcodec     60. 31.102 / 60. 31.102\n  libavformat    60. 16.100 / 60. 16.100\n  libavdevice    60.  3.100 / 60.  3.100\n  libavfilter     9. 12.100 /  9. 12.100\n  libswscale      7.  5.100 /  7.  5.100\n  libswresample   4. 12.100 /  4. 12.100\n  libpostproc    57.  3.100 / 57.  3.100\nInput #0, image2, from 'Morph%04d.png':\n  Duration: 00:00:03.60, start: 0.000000, bitrate: N/A\n  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 1920x1080, 25 fps, 25 tbr, 25 tbn\nStream mapping:\n  Stream #0:0 -> #0:0 (png (native) -> prores (prores_ks))\nPress [q] to stop, [?] for help\nOutput #0, mov, to 'Morph.mov':\n  Metadata:\n    encoder         : Lavf60.16.100\n  Stream #0:0: Video: prores (4444) (ap4h / 0x68347061), yuva444p10le(tv, progressive), 1920x1080, q=2​‌​\n-31, 200 kb/s, 30 fps, 15360 tbn\n    Metadata:\n      encoder         : Lavc60.31.102 prores_ks\n[out#0/mov @ 0x6000024f0300] video:6570kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB ​‌​\nmuxing overhead: 0.017212%\nframe=   90 fps= 75 q=-0.0 Lsize=    6571kB time=00:00:02.96 bitrate=18146.1kbits/s speed=2.47x    \n(base) davidrug@Davids-MacBook-Pro-2 Text2Morph % ",
+			"settings":
+			{
+				"buffer_size": 2497,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"terminus_render",
+					null,
+					"YAAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAABrAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAG0AAAAAAAAAAAAAAG0AAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABvAAAAAAAAAAAAAABvAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHcAAAAAAAAAAAAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHkAAAAAAAAAAAAAAHkAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAH8AAAAAAAAAfwAAAAAAAAAAAAAAfwAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAIUAAAAAAAAAhQAAAAAAAAAAAAAAhAAAAAAAAACEAAAAAAAAAAEAAAAKgwAAAAAAAACDAAAAAAAAAAEAAAAKggAAAAAAAACCAAAAAAAAAAEAAAAKgQAAAAAAAACBAAAAAAAAAAEAAAAKgAAAAAAAAACAAAAAAAAAAAEAAAAKfwAAAAAAAAB/AAAAAAAAAAEAAAAKfgAAAAAAAAB+AAAAAAAAAAEAAAAKfQAAAAAAAAB9AAAAAAAAAAEAAAAKfAAAAAAAAAB8AAAAAAAAAAEAAAAKewAAAAAAAAB7AAAAAAAAAAEAAAAKegAAAAAAAAB6AAAAAAAAAAEAAAAKeQAAAAAAAAB5AAAAAAAAAAEAAAAKeAAAAAAAAAB4AAAAAAAAAAEAAAAKdwAAAAAAAAB3AAAAAAAAAAEAAAAKdgAAAAAAAAB2AAAAAAAAAAEAAAAKdQAAAAAAAAB1AAAAAAAAAAEAAAAKdAAAAAAAAAB0AAAAAAAAAAEAAAAKcwAAAAAAAABzAAAAAAAAAAEAAAAKcgAAAAAAAAByAAAAAAAAAAEAAAAKcQAAAAAAAABxAAAAAAAAAAEAAAAKcAAAAAAAAABwAAAAAAAAAAEAAAAKbwAAAAAAAABvAAAAAAAAAAEAAAAKbgAAAAAAAABuAAAAAAAAAAEAAAAKbQAAAAAAAABtAAAAAAAAAAEAAAAKbAAAAAAAAABsAAAAAAAAAAEAAAAKawAAAAAAAABrAAAAAAAAAAEAAAAKagAAAAAAAABqAAAAAAAAAAEAAAAKaQAAAAAAAABpAAAAAAAAAAEAAAAKaAAAAAAAAABoAAAAAAAAAAEAAAAKZwAAAAAAAABnAAAAAAAAAAEAAAAKZgAAAAAAAABmAAAAAAAAAAEAAAAKMgAAAAAAAAAyAAAAAAAAADQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAMwAAAAAAAAAyAAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSAzAAAAAAAAAGYAAAAAAAAAAAAAADMAAAAAAAAAMwAAAAAAAAAzAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAANAAAAAAAAAAzAAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwNAAAAAAAAABmAAAAAAAAAAAAAAA0AAAAAAAAADQAAAAAAAAAMgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAANQAAAAAAAAA0AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbjUAAAAAAAAAZgAAAAAAAAAAAAAANQAAAAAAAAA1AAAAAAAAADEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAANgAAAAAAAAA1AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmc2AAAAAAAAAGYAAAAAAAAAAAAAADYAAAAAAAAANgAAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAANwAAAAAAAAA2AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmcyNwAAAAAAAABmAAAAAAAAAAAAAAA3AAAAAAAAADcAAAAAAAAALwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOAAAAAAAAAA3AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmcydjgAAAAAAAAAZgAAAAAAAAAAAAAAOAAAAAAAAAA4AAAAAAAAAC4AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOQAAAAAAAAA4AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmcydmk5AAAAAAAAAGYAAAAAAAAAAAAAADkAAAAAAAAAOQAAAAAAAAAtAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOgAAAAAAAAA5AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmcydmlkOgAAAAAAAABmAAAAAAAAAAAAAAA6AAAAAAAAADoAAAAAAAAALAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOwAAAAAAAAA6AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmcydmlkZTsAAAAAAAAAZgAAAAAAAAAAAAAAOwAAAAAAAAA7AAAAAAAAACsAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARAAAAAAAAAA7AAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFRleHQyTW9ycGggJSBwbmcydmlkZW9EAAAAAAAAAGYAAAAAAAAAAAAAAEQAAAAAAAAARAAAAAAAAAAiAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					6,
+					"terminus_render",
+					null,
+					"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YmxlLWxpYmp4bCAtLWVuYWJsZS1saWJtcDNsYW1lIC0tZW5hYmxlLWxpYm9wdXMgLS1lbmFibGUtbGlicmF2MWUgLS1lbmFibGUtbGlicmlzdCAtLWVuYWJsZeKAi+KAjOKAi40CAAAAAAAA9gIAAAAAAABvAAAALWxpYnJ1YmJlcmJhbmQgLS1lbmFibGUtbGlic25hcHB5IC0tZW5hYmxlLWxpYnNydCAtLWVuYWJsZS1saWJzc2ggLS1lbmFibGUtbGlic3Z0YXYxIC0tZW5hYmxlLWxpYnRlc3Nl4oCL4oCM4oCL9wIAAAAAAABgAwAAAAAAAG8AAAByYWN0IC0tZW5hYmxlLWxpYnRoZW9yYSAtLWVuYWJsZS1saWJ2aWRzdGFiIC0tZW5hYmxlLWxpYnZtYWYgLS1lbmFibGUtbGlidm9yYmlzIC0tZW5hYmxlLWxpYnZweCAtLWVuYWLigIvigIzigIthAwAAAAAAAMoDAAAAAAAAbwAAAGxlLWxpYndlYnAgLS1lbmFibGUtbGlieDI2NCAtLWVuYWJsZS1saWJ4MjY1IC0tZW5hYmxlLWxpYnhtbDIgLS1lbmFibGUtbGlieHZpZCAtLWVuYWJsZS1sem1hIC0tZW5hYmxlLeKAi+KAjOKAi8sDAAAAAAAANAQAAAAAAABvAAAAbGliZm9udGNvbmZpZyAtLWVuYWJsZS1saWJmcmVldHlwZSAtLWVuYWJsZS1mcmVpMHIgLS1lbmFibGUtbGliYXNzIC0tZW5hYmxlLWxpYm9wZW5jb3JlLWFtcm5iIC0tZW5hYmxl4oCL4oCM4oCLNQQAAAAAAACeBAAAAAAAAG8AAAAtbGlib3BlbmNvcmUtYW1yd2IgLS1lbmFibGUtbGlib3BlbmpwZWcgLS1lbmFibGUtbGlib3BlbnZpbm8gLS1lbmFibGUtbGlic3BlZXggLS1lbmFibGUtbGlic294ciAtLWVuYWLigIvigIzigIufBAAAAAAAAAgFAAAAAAAAbwAAAGxlLWxpYnptcSAtLWVuYWJsZS1saWJ6aW1nIC0tZGlzYWJsZS1saWJqYWNrIC0tZGlzYWJsZS1pbmRldj1qYWNrIC0tZW5hYmxlLXZpZGVvdG9vbGJveCAtLWVuYWJsZS1hdWRpb+KAi+KAjOKAiwkFAAAAAAAAHgUAAAAA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LWNmbGFncz0gLS1ob3N0LWxkZmxhZ3M9Jy1XbCwtbGRfY2xhc3NpYycgLS1lbmFibGUtZmZwbGF5IC0tZW5hYmxlLWdudXRsc+KAi+KAjOKAi40CAAAAAAAA9gIAAAAAAABvAAAALWxpYnJ1YmJlcmJhbmQgLS1lbmFibGUtbGlic25hcHB5IC0tZW5hYmxlLWxpYnNydCAtLWVuYWJsZS1saWJzc2ggLS1lbmFibGUtbGlic3Z0YXYxIC0tZW5hYmxlLWxpYnRlc3Nl4oCL4oCM4oCL9wIAAAAAAABgAwAAAAAAAG8AAAByYWN0IC0tZW5hYmxlLWxpYnRoZW9yYSAtLWVuYWJsZS1saWJ2aWRzdGFiIC0tZW5hYmxlLWxpYnZtYWYgLS1lbmFibGUtbGlidm9yYmlzIC0tZW5hYmxlLWxpYnZweCAtLWVuYWLigIvigIzigIthAwAAAAAAAMoDAAAAAAAAbwAAAGxlLWxpYndlYnAgLS1lbmFibGUtbGlieDI2NCAtLWVuYWJsZS1saWJ4MjY1IC0tZW5hYmxlLWxpYnhtbDIgLS1lbmFibGUtbGlieHZpZCAtLWVuYWJsZS1sem1hIC0tZW5hYmxlLeKAi+KAjOKAi8sDAAAAAAAANAQAAAAAAABvAAAAbGliZm9udGNvbmZpZyAtLWVuYWJsZS1saWJmcmVldHlwZSAtLWVuYWJsZS1mcmVpMHIgLS1lbmFibGUtbGliYXNzIC0tZW5hYmxlLWxpYm9wZW5jb3JlLWFtcm5iIC0tZW5hYmxl4oCL4oCM4oCLNQQAAAAAAACeBAAAAAAAAG8AAAAtbGlib3BlbmNvcmUtYW1yd2IgLS1lbmFibGUtbGlib3BlbmpwZWcgLS1lbmFibGUtbGlib3BlbnZpbm8gLS1lbmFibGUtbGlic3BlZXggLS1lbmFibGUtbGlic294ciAtLWVuYWLigIvigIzigIufBAAAAAAAAAgFAAAAAAAAbwAAAGxlLWxpYnptcSAtLWVuYWJsZS1saWJ6aW1nIC0tZGlzYWJsZS1saWJqYWNrIC0tZGlzYWJsZS1pbmRldj1qYWNrIC0tZW5hYmxlLXZpZGVvdG9vbGJveCAtLWVuYWJsZS1hdWRpb+KAi+KAjOKAiwkFAAAAAAAAHgUAAAAAAAAVAAAAdG9vbGJveCAtLWVu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"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c4dpy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c4dpy.sublime-build",
+					"c4dpy"
+				],
+				[
+					"Packages/User/c4dpy.sublime-build",
+					"CPython"
+				]
+			],
+			[
+				"Packages/User/c4dpy.sublime-build",
+				"CPython"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Anaconda: Find object usage"
+			],
+			[
+				"anaconda",
+				"Anaconda: Rename object under cursor"
+			],
+			[
+				"co",
+				"Copilot: Check Status"
+			],
+			[
+				"co sign",
+				"Copilot: Sign In"
+			],
+			[
+				"copilo",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"copilot",
+				"Copilot: Check Status"
+			],
+			[
+				"Copi",
+				"Copilot: Check Status"
+			],
+			[
+				"Cop",
+				"Copilot: Sign In"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 163.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49466))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51216))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph/media",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph/media/images",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph/media/images/Text2Morph"
+	],
+	"file_history":
+	[
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph/SVG2Morph.py",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/DepletionRejuvenationSpirals/DepletionRejuvenationSpirals.py",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/DepletionRejuvenationSpirals/DepletionRejuvenationSpirals",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/DepletionRejuvenationSpirals/README.md",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/line_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/abstract_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/effect_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-testing/testing.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/helper_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/custom_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/sketch_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/solid_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/DreamTalkProjects/ad4m.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/xpresso/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/abstract_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/animation.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/camera_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/scene.py",
+		"/Users/davidrug/Documents/Ataraxia/InterfaceGuy/CodingAdventures/DreamTalkProjects/ad4m.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-PL-pitch/pitch.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/PyTalk-CustodianOfTheNoosphere/custodian_of_the_noosphere.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/DreamTalk.txt",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/UnclutterFiles/NussschalenBeauftragter.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/materials.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pytalk-interfaceguy-intro/interfaceguy_intro.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/constants.py",
+		"/Users/davidrug/Documents/InterfaceGuy/CodingAdventures/svg2key-cli/svg2keynote",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/assets/svg/right_eye.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/assets/svg/wave.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/__init__.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/xpresso/userdata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/xpresso/xpresso.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/action_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/fill_animators.py",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/Unclutter Files/fix_svg.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/assets/svg/man.svg",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/Unclutter Files/run_clipboard.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/utils.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/imports.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/tags.py",
+		"/Users/davidrug/Documents/Python/mac_adress_changer.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/transition_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/light_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/composed_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/object_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/sketch_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/svg_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/document.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/pydeation.sublime-project",
+		"/Users/davidrug/Documents/Python/Projects/pydeation-horizon-border/README.md",
+		"/Users/davidrug/Documents/Python/Projects/pydeation-horizon-border/horizon_border.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-PL-pitch/README.md",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-testing/.gitignore",
+		"/Users/davidrug/Library/Application Support/Sublime Text/Packages/User/Anaconda.sublime-settings",
+		"/Users/davidrug/Library/Application Support/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation-testing/testing.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/abstract_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/scene.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/constants.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/xpresso.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/userdata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/sketch_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/animation.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/line_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/fill_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/abstract_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/object_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/tags.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/imports.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/objects/solid_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/imports.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/xpresso/xpresso.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/xpresso/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/test.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpressions/userdata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/pydeationV2.sublime-project",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/pydeation.sublime-project",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/testProjectV2.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/materials.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/helper_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/solid_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/composed_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/svg_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/memetics/memetics.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/closeDocs.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/fourier_transform/fourier_transform.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/testing.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/document.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/pitch/InterfaceGuy/pitch/pitch.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/scene/scene.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/animation/animator.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/mograph.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/constants.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/testProject.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/camera/camera.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/vector_graphics.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/object.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/tree.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/david.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/metadata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/custom_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/pitch/InterfaceGuy/stem/stem.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/pitch/InterfaceGuy/seed/seed.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/LICENSE",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/dialectic/DanielSchmachtenberger/left-right/left-right.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/branching/branching.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectical_thinking/dialectical_thinking.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/intro/intro.py",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/Unclutter Files/Ohne Titel 6.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/project.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/gear_big.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectic_transitions/dialectic.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/clips/DanielSchmachtenberger/NavigatingReality/navigating_reality.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/individual.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/dialectic/DanielSchmachtenberger/being-becoming/being-becoming.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/emu.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/dialectic/DanielSchmachtenberger/conservative-progressive/conservative-progressive.py",
+		"/Users/davidrug/Documents/Python/Projects/pydeation/pydeation.sublime-project",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectical_thinking/dialectical_thinking",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectic/dialectic.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R24_36E19156/python39/libs/pydeationlib/scene/scene.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R24_36E19156/library/scripts/PydeationProjects/diverse/InterfaceGuy/logo/logo.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R24_36E19156/python39/libs/pydeationlib/object/custom_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/social_system.jpeg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/vector_graphics_pydeation.key",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/test.svg"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Text2Morph.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.completion_index": 0,
+							"copilot.completion.completion_style": "popup",
+							"copilot.completion.completions":
+							[
+								{
+									"displayText": "\")",
+									"docVersion": 115,
+									"point": 251,
+									"position":
+									{
+										"character": 28,
+										"line": 11
+									},
+									"range":
+									{
+										"end":
+										{
+											"character": 29,
+											"line": 11
+										},
+										"start":
+										{
+											"character": 0,
+											"line": 11
+										}
+									},
+									"region":
+									[
+										223,
+										252
+									],
+									"text": "\t\ttext2 = Tex(\"Goodbye World\")",
+									"uuid": "b02a6638-1184-4641-8900-cc57ccfb0f67"
+								}
+							],
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/davidrug/Library/Mobile%20Documents/iCloud%7Emd%7Eobsidian/Documents/InterBrain/Text2Morph/Text2Morph.py",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "media/images/Text2Morph/Morph.mov",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16822975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"lsp_uri": "file:///Users/davidrug/Library/Mobile%20Documents/iCloud%7Emd%7Eobsidian/Documents/InterBrain/Text2Morph/media/images/Text2Morph/Morph.mov",
+							"syntax": "Packages/Binary/Binary.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4597,
+								4597
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"default_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"lsp_uri": "buffer:361",
+							"result_base_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 334,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 255.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2497,
+								2497
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"default_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph/media/texts",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"lsp_uri": "buffer:427",
+							"result_base_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph/media/images/Text2Morph",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 1,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/Text2Morph/media/images/Text2Morph",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 105.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.680069186766,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 109.0
+	},
+	"pinned_build_system": "c4d",
+	"project": "Text2Morph.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Python/Projects/pydeation/pydeation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
